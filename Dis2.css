@@ -1,0 +1,16 @@
+html{
+    background-image: url(Bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    font-family: 'Rubik', sans-serif;
+    font-size: 60px;
+}
+h1{
+    color: #001a2d;
+    text-align: center;
+}
+img{
+    margin: auto;
+    display: block;
+}
